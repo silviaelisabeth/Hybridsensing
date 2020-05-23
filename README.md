@@ -8,3 +8,4 @@ Zieger, SRE 2020, Multiparametric Sensing - from Development to Application in M
 
 
 dualSens is written in Python3 and required functions are stored in PyCharm.
+To run the GUI, you can either use the jupyter notebook file run_GUI.ipynb or run GUI_dualsesors_v1.py in PyCharm.

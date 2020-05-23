@@ -1,0 +1,29 @@
+ 	Input	parameters			
+f1	3000.0	Hz			
+f2	7000.0	Hz			
+I_F(max)	100.0	%			
+I_P(max)	200.0	%			
+meas. uncertainty	0.1	°			
+pCO2 calib [hPa]	0.0407	60.64			
+pO2 calib [hPa]	0.0	198.89			
+pCO2 - Ksv1	0.13				
+pCO2 - m	1.0				
+pCO2 - f	0.8				
+pO2 - tauP	51.86	µs			
+pO2 - Ksv	0.019				
+pO2 - m	0.125				
+pO2 - f	0.85				
+----	----	----			
+ 	median	range			
+pCO2 #1	10.5	10.44-10.54			
+pO2 #1	16.45	15.83-17.07			
+pCO2\pO2 			0.0	198.89	16.45
+dPhi1 0.04			--	5.069	--
+dPhi1 60.64			41.115	--	--
+dPhi2 0.04			--	9.715	--
+dPhi2 60.64			58.816	--	--
+dPhi1 10.50			--	--	27.845
+dPhi2 10.50			--	--	38.877
+I-ratio 0.04			--	1.938	--
+I-ratio 60.64			0.061	--	--
+I-ratio 10.50			--	--	0.291

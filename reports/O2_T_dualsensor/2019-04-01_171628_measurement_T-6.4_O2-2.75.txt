@@ -1,0 +1,10 @@
+calibration file	2019-01-24_O2-T_calibrationfile.txt
+f1 [Hz]	13.0
+f2 [Hz]	63.0
+meas uncertainty [deg]	0.1
+dPhi(f1) [deg]	[4.73]
+dPhi(f2) [deg]	[7.62]
+A(f1) [mV]	[59.0]
+A(f2) [mV]	[51.0]
+Temperature_calc [°C]	[6.5, 6.4, 6.4]
+pO2 calc [hPa]	[2.8, 2.75, 2.72]

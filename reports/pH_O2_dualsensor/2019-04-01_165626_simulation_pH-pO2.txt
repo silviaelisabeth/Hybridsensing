@@ -1,0 +1,28 @@
+ 	Input	parameters			
+f1	3000.0	Hz			
+f2	7000.0	Hz			
+I_F(max)	100.0	%			
+I_P(max)	200.0	%			
+meas. uncertainty	0.1	°			
+pH calib	4.0	10.0			
+pO2 calib [hPa]	0.0	210.0			
+pH - slope	1.0				
+pH - pKa	7.4				
+pO2 - tauP	51.86	µs			
+pO2 - Ksv	0.0339				
+pO2 - m	0.106				
+pO2 - f	0.8				
+----	----	----			
+ 	median	range			
+pH #1	7.45	7.39-7.5			
+pO2 [hPa] #1	104.1	91.91-115.65			
+pH\O2			0.0	210.0	104.1
+dPhi1 4.00			18.721	2.076	--
+dPhi1 10.00			44.214	11.602	--
+dPhi2 4.00			18.103	4.201	--
+dPhi2 10.00			66.012	25.549	--
+dPhi1 7.45			--	--	7.022
+dPhi2 7.45			--	--	13.018
+I-ratio 4.00			0.9637	0.0024	--
+I-ratio 10.00			4.5345	0.0114	--
+I-ratio 7.45			--	--	1.4127

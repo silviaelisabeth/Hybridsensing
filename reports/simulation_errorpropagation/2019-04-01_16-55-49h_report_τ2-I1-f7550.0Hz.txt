@@ -1,0 +1,20 @@
+INPUT parameter		
+f1: 	7550.0	Hz
+tau2: 	7e-05	µs
+I-ratio 1: 	0.75	
+assumed uncertainty: 	0.1	°
+ ------------------	 ---	 ---
+OUTPUT parameter		
+f2: 	1352.0	Hz
+phi(f1): 	18.34	°
+phi(f2): 	16.44	°
+tau2(min): 	69.386	µs
+tau2(max): 	70.619	µs
+er(tau2, min): 	-0.878	%
+er(tau2, max): 	0.885	%
+I-ratio(min): 	0.74	
+I-ratio(max): 	0.76	
+dev(I1, min): 	-6.39e-03	
+dev(I1, max): 	6.46e-03	
+er(I1, min): 	-8.52e-01	%
+er(I1, max): 	8.62e-01	%
